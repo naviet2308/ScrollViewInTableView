@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E70C6036-08F8-46E7-88FA-FAEC7C674869</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrollViewInTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8CB84DD5243CBD3E58101C7061E341DBD004D31C</key>
+		<string>https://github.com/naviet2308/ScrollViewInTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollViewInTableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8CB84DD5243CBD3E58101C7061E341DBD004D31C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/naviet2308/ScrollViewInTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8CB84DD5243CBD3E58101C7061E341DBD004D31C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8CB84DD5243CBD3E58101C7061E341DBD004D31C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScrollViewInTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

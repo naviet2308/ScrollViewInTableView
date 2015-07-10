@@ -12,8 +12,6 @@
 
 @property (nonatomic, strong) NSArray *imageArr;
 
-@property (weak, nonatomic) IBOutlet UITableView *tableView;
-
 @end
 
 @implementation ViewController
@@ -39,7 +37,7 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
-    UITableViewCell *cell = [self.tableView dequeueReusableCellWithIdentifier:@"cellScroll"];
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cellScroll"];
     UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame:self.view.frame];
     for(NSInteger i = 0; i < self.imageArr.count ; i++){
         UIImage *image = [UIImage imageNamed:[self.imageArr objectAtIndex:i]];
